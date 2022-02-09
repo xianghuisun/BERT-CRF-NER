@@ -1,0 +1,1143 @@
+2022-01-21 14:25:53,777 - main - INFO - <module> - 40 : Using device cuda
+2022-01-21 14:25:54,005 - main - INFO - main - 183 : train sentences num : 14040
+2022-01-21 14:25:54,009 - main - INFO - main - 184 : test sentences num : 3249
+2022-01-21 14:25:54,009 - main - INFO - main - 185 : Logging some examples...
+2022-01-21 14:25:54,009 - main - INFO - main - 191 : "  O
+2022-01-21 14:25:54,009 - main - INFO - main - 191 : We  O
+2022-01-21 14:25:54,010 - main - INFO - main - 191 : started  O
+2022-01-21 14:25:54,010 - main - INFO - main - 191 : panicking  O
+2022-01-21 14:25:54,010 - main - INFO - main - 191 : a  O
+2022-01-21 14:25:54,010 - main - INFO - main - 191 : bit  O
+2022-01-21 14:25:54,010 - main - INFO - main - 191 : after  O
+2022-01-21 14:25:54,011 - main - INFO - main - 191 : the  O
+2022-01-21 14:25:54,011 - main - INFO - main - 191 : Turkish  B-misc
+2022-01-21 14:25:54,011 - main - INFO - main - 191 : goal  O
+2022-01-21 14:25:54,011 - main - INFO - main - 191 : ...  O
+2022-01-21 14:25:54,011 - main - INFO - main - 192 : --------------------------------------------------
+2022-01-21 14:25:54,012 - main - INFO - main - 191 : 2.  O
+2022-01-21 14:25:54,012 - main - INFO - main - 191 : Merlene  B-person
+2022-01-21 14:25:54,012 - main - INFO - main - 191 : Ottey  I-person
+2022-01-21 14:25:54,012 - main - INFO - main - 191 : (  O
+2022-01-21 14:25:54,012 - main - INFO - main - 191 : Jamaica  B-location
+2022-01-21 14:25:54,012 - main - INFO - main - 191 : )  O
+2022-01-21 14:25:54,012 - main - INFO - main - 191 : 10.94  O
+2022-01-21 14:25:54,012 - main - INFO - main - 192 : --------------------------------------------------
+2022-01-21 14:25:54,013 - main - INFO - main - 191 : MOSCOW  B-location
+2022-01-21 14:25:54,013 - main - INFO - main - 191 : 1996-08-30  O
+2022-01-21 14:25:54,013 - main - INFO - main - 192 : --------------------------------------------------
+2022-01-21 14:25:54,013 - main - INFO - main - 191 : It  O
+2022-01-21 14:25:54,013 - main - INFO - main - 191 : gave  O
+2022-01-21 14:25:54,013 - main - INFO - main - 191 : no  O
+2022-01-21 14:25:54,013 - main - INFO - main - 191 : further  O
+2022-01-21 14:25:54,013 - main - INFO - main - 191 : details  O
+2022-01-21 14:25:54,013 - main - INFO - main - 191 : .  O
+2022-01-21 14:25:54,014 - main - INFO - main - 192 : --------------------------------------------------
+2022-01-21 14:25:54,014 - main - INFO - main - 191 : Death  O
+2022-01-21 14:25:54,014 - main - INFO - main - 191 : does  O
+2022-01-21 14:25:54,014 - main - INFO - main - 191 : have  O
+2022-01-21 14:25:54,014 - main - INFO - main - 191 : some  O
+2022-01-21 14:25:54,014 - main - INFO - main - 191 : sad  O
+2022-01-21 14:25:54,014 - main - INFO - main - 191 : dimensions  O
+2022-01-21 14:25:54,014 - main - INFO - main - 191 : to  O
+2022-01-21 14:25:54,015 - main - INFO - main - 191 : it  O
+2022-01-21 14:25:54,015 - main - INFO - main - 191 : but  O
+2022-01-21 14:25:54,015 - main - INFO - main - 191 : I  O
+2022-01-21 14:25:54,015 - main - INFO - main - 191 : am  O
+2022-01-21 14:25:54,015 - main - INFO - main - 191 : a  O
+2022-01-21 14:25:54,015 - main - INFO - main - 191 : man  O
+2022-01-21 14:25:54,015 - main - INFO - main - 191 : of  O
+2022-01-21 14:25:54,016 - main - INFO - main - 191 : faith  O
+2022-01-21 14:25:54,016 - main - INFO - main - 191 : ,  O
+2022-01-21 14:25:54,016 - main - INFO - main - 191 : "  O
+2022-01-21 14:25:54,016 - main - INFO - main - 191 : he  O
+2022-01-21 14:25:54,016 - main - INFO - main - 191 : said  O
+2022-01-21 14:25:54,016 - main - INFO - main - 191 : .  O
+2022-01-21 14:25:54,016 - main - INFO - main - 191 : "  O
+2022-01-21 14:25:54,017 - main - INFO - main - 192 : --------------------------------------------------
+2022-01-21 14:25:54,056 - main - INFO - main - 202 : Tag scheme : I-person B-misc I-organisation I-location B-person B-location B-organisation I-misc
+2022-01-21 14:25:54,056 - main - INFO - main - 203 : Tag has been saved in /data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/saved_models/bert-large-wwm-conll03/label.json
+2022-01-21 14:25:54,120 - main - INFO - main - 235 : model_name_or_path:/data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_large_wwm
+2022-01-21 14:25:54,120 - main - INFO - main - 235 : file_path:/data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/data/bio_data/conll03
+2022-01-21 14:25:54,120 - main - INFO - main - 235 : save_dir:/data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/saved_models/bert-large-wwm-conll03
+2022-01-21 14:25:54,121 - main - INFO - main - 235 : ckpt:None
+2022-01-21 14:25:54,121 - main - INFO - main - 235 : learning_rate:3e-05
+2022-01-21 14:25:54,121 - main - INFO - main - 235 : weight_decay:1e-05
+2022-01-21 14:25:54,121 - main - INFO - main - 235 : epochs:30
+2022-01-21 14:25:54,121 - main - INFO - main - 235 : train_batch_size:32
+2022-01-21 14:25:54,122 - main - INFO - main - 235 : lstm_hidden_size:150
+2022-01-21 14:25:54,122 - main - INFO - main - 235 : test_batch_size:64
+2022-01-21 14:25:54,122 - main - INFO - main - 235 : max_grad_norm:1
+2022-01-21 14:25:54,122 - main - INFO - main - 235 : warmup_proportion:0.1
+2022-01-21 14:25:54,123 - main - INFO - main - 235 : max_len:256
+2022-01-21 14:25:54,123 - main - INFO - main - 235 : patience:100
+2022-01-21 14:25:54,123 - main - INFO - main - 235 : seed:42
+2022-01-21 14:25:54,123 - main - INFO - main - 235 : num_workers:1
+2022-01-21 14:25:54,815 - main - INFO - train - 50 : n_tags : 9
+2022-01-21 14:25:54,815 - main - INFO - train - 54 : Under an epoch, loss will be output every 87 step, and the model will be evaluated every 219 step
+2022-01-21 14:26:13,645 - main - INFO - train - 64 : Using device : cuda
+2022-01-21 14:26:13,648 - main - INFO - train - 69 : num_train_steps : 13140, warmup_proportion : 0.1, warmup_steps : 1314
+2022-01-21 14:26:13,648 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:26:29,032 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.0228    0.0610    0.0332      1837
+        misc     0.0303    0.1993    0.0526       918
+organisation     0.0139    0.1672    0.0257      1340
+      person     0.0166    0.0988    0.0285      1842
+
+   micro avg     0.0184    0.1181    0.0319      5937
+   macro avg     0.0209    0.1316    0.0350      5937
+weighted avg     0.0200    0.1181    0.0330      5937
+
+2022-01-21 14:26:29,035 - main.utils - INFO - compute_f1 - 141 : F1 : 0.0319085984796759, accuracy : 0.13974453833872036, precision : 0.01844688297676377, recall : 0.11807310089270676
+2022-01-21 14:26:29,038 - main - INFO - train - 80 : Previous f1 score is -1 and current f1 score is 0.0319085984796759
+2022-01-21 14:27:18,204 - main - INFO - train - 102 : Epoch : 0, global_step : 87/13140, loss_value : 1233.1380951980066 
+2022-01-21 14:28:06,210 - main - INFO - train - 102 : Epoch : 0, global_step : 174/13140, loss_value : 574.9661798586791 
+2022-01-21 14:28:31,006 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:28:46,040 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.2500    0.0011    0.0022      1837
+        misc     0.0000    0.0000    0.0000       918
+organisation     0.1878    0.0254    0.0447      1340
+      person     0.3695    0.2220    0.2774      1842
+
+   micro avg     0.3434    0.0750    0.1230      5937
+   macro avg     0.2018    0.0621    0.0811      5937
+weighted avg     0.2344    0.0750    0.0968      5937
+
+2022-01-21 14:28:46,040 - main.utils - INFO - compute_f1 - 141 : F1 : 0.12304714502972487, accuracy : 0.8523891117255344, precision : 0.3433641975308642, recall : 0.07495368030992083
+2022-01-21 14:28:50,269 - main - INFO - train - 110 : Previous f1 score is 0.0319085984796759 and current f1 score is 0.12304714502972487, best model has been saved in /data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/saved_models/bert-large-wwm-conll03/pytorch_model.bin
+2022-01-21 14:29:13,468 - main - INFO - train - 102 : Epoch : 0, global_step : 261/13140, loss_value : 377.1175728282709 
+2022-01-21 14:30:01,625 - main - INFO - train - 102 : Epoch : 0, global_step : 348/13140, loss_value : 209.93551512970322 
+2022-01-21 14:30:49,822 - main - INFO - train - 102 : Epoch : 0, global_step : 435/13140, loss_value : 150.0528644254838 
+2022-01-21 14:30:51,581 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:31:06,858 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.6799    0.8465    0.7541      1837
+        misc     0.6003    0.5087    0.5507       918
+organisation     0.5800    0.7575    0.6570      1340
+      person     0.9354    0.9506    0.9429      1842
+
+   micro avg     0.7160    0.8065    0.7586      5937
+   macro avg     0.6989    0.7658    0.7262      5937
+weighted avg     0.7243    0.8065    0.7593      5937
+
+2022-01-21 14:31:06,859 - main.utils - INFO - compute_f1 - 141 : F1 : 0.7585551330798479, accuracy : 0.9654776276334748, precision : 0.7160161507402423, recall : 0.8064679130874179
+2022-01-21 14:31:11,133 - main - INFO - train - 110 : Previous f1 score is 0.12304714502972487 and current f1 score is 0.7585551330798479, best model has been saved in /data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/saved_models/bert-large-wwm-conll03/pytorch_model.bin
+2022-01-21 14:31:59,552 - main - INFO - train - 102 : Epoch : 1, global_step : 526/13140, loss_value : 105.67577388368804 
+2022-01-21 14:32:47,441 - main - INFO - train - 102 : Epoch : 1, global_step : 613/13140, loss_value : 91.40235221248933 
+2022-01-21 14:33:11,761 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:33:26,807 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.8885    0.9412    0.9141      1837
+        misc     0.7113    0.8050    0.7552       918
+organisation     0.8857    0.8440    0.8643      1340
+      person     0.9582    0.9707    0.9644      1842
+
+   micro avg     0.8791    0.9074    0.8930      5937
+   macro avg     0.8609    0.8902    0.8745      5937
+weighted avg     0.8821    0.9074    0.8939      5937
+
+2022-01-21 14:33:26,807 - main.utils - INFO - compute_f1 - 141 : F1 : 0.8929962702030667, accuracy : 0.9818528758908057, precision : 0.879079634464752, recall : 0.9073606198416708
+2022-01-21 14:33:38,580 - main - INFO - train - 110 : Previous f1 score is 0.7585551330798479 and current f1 score is 0.8929962702030667, best model has been saved in /data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/saved_models/bert-large-wwm-conll03/pytorch_model.bin
+2022-01-21 14:34:01,539 - main - INFO - train - 102 : Epoch : 1, global_step : 700/13140, loss_value : 77.91846623913995 
+2022-01-21 14:34:49,129 - main - INFO - train - 102 : Epoch : 1, global_step : 787/13140, loss_value : 63.475182500378835 
+2022-01-21 14:35:37,100 - main - INFO - train - 102 : Epoch : 1, global_step : 874/13140, loss_value : 57.46605993687422 
+2022-01-21 14:35:38,818 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:35:53,945 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9471    0.9657    0.9563      1837
+        misc     0.7849    0.8388    0.8110       918
+organisation     0.9062    0.8873    0.8967      1340
+      person     0.9665    0.9875    0.9769      1842
+
+   micro avg     0.9180    0.9352    0.9265      5937
+   macro avg     0.9012    0.9198    0.9102      5937
+weighted avg     0.9188    0.9352    0.9268      5937
+
+2022-01-21 14:35:53,945 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9264914476428869, accuracy : 0.9858249931850929, precision : 0.917989417989418, recall : 0.9351524338891696
+2022-01-21 14:35:58,400 - main - INFO - train - 110 : Previous f1 score is 0.8929962702030667 and current f1 score is 0.9264914476428869, best model has been saved in /data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/saved_models/bert-large-wwm-conll03/pytorch_model.bin
+2022-01-21 14:36:47,103 - main - INFO - train - 102 : Epoch : 2, global_step : 965/13140, loss_value : 44.418688631605825 
+2022-01-21 14:37:35,097 - main - INFO - train - 102 : Epoch : 2, global_step : 1052/13140, loss_value : 38.71181769754695 
+2022-01-21 14:38:00,079 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:38:15,217 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9411    0.9646    0.9527      1837
+        misc     0.8611    0.8377    0.8493       918
+organisation     0.8815    0.9269    0.9036      1340
+      person     0.9800    0.9598    0.9698      1842
+
+   micro avg     0.9269    0.9350    0.9309      5937
+   macro avg     0.9159    0.9222    0.9188      5937
+weighted avg     0.9273    0.9350    0.9309      5937
+
+2022-01-21 14:38:15,217 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9309072614455811, accuracy : 0.9855718680633981, precision : 0.9268659208549006, recall : 0.9349839986525181
+2022-01-21 14:38:20,077 - main - INFO - train - 110 : Previous f1 score is 0.9264914476428869 and current f1 score is 0.9309072614455811, best model has been saved in /data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/saved_models/bert-large-wwm-conll03/pytorch_model.bin
+2022-01-21 14:38:43,170 - main - INFO - train - 102 : Epoch : 2, global_step : 1139/13140, loss_value : 40.97893094468391 
+2022-01-21 14:39:31,025 - main - INFO - train - 102 : Epoch : 2, global_step : 1226/13140, loss_value : 36.698451875270095 
+2022-01-21 14:40:18,879 - main - INFO - train - 102 : Epoch : 2, global_step : 1313/13140, loss_value : 38.33089203670107 
+2022-01-21 14:40:20,557 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:40:35,665 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9527    0.9657    0.9592      1837
+        misc     0.8244    0.8845    0.8534       918
+organisation     0.8974    0.9201    0.9086      1340
+      person     0.9747    0.9826    0.9786      1842
+
+   micro avg     0.9261    0.9481    0.9370      5937
+   macro avg     0.9123    0.9383    0.9250      5937
+weighted avg     0.9272    0.9481    0.9374      5937
+
+2022-01-21 14:40:35,666 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9369954223886807, accuracy : 0.9874410997312979, precision : 0.9261270154656137, recall : 0.9481219471113357
+2022-01-21 14:40:41,844 - main - INFO - train - 110 : Previous f1 score is 0.9309072614455811 and current f1 score is 0.9369954223886807, best model has been saved in /data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/saved_models/bert-large-wwm-conll03/pytorch_model.bin
+2022-01-21 14:41:31,117 - main - INFO - train - 102 : Epoch : 3, global_step : 1404/13140, loss_value : 32.21876522590374 
+2022-01-21 14:42:18,756 - main - INFO - train - 102 : Epoch : 3, global_step : 1491/13140, loss_value : 25.755001418891993 
+2022-01-21 14:42:43,754 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:42:58,921 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9563    0.9641    0.9602      1837
+        misc     0.8514    0.8802    0.8656       918
+organisation     0.9068    0.9216    0.9141      1340
+      person     0.9805    0.9815    0.9810      1842
+
+   micro avg     0.9359    0.9469    0.9414      5937
+   macro avg     0.9237    0.9369    0.9302      5937
+weighted avg     0.9364    0.9469    0.9416      5937
+
+2022-01-21 14:42:58,921 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9413931681178834, accuracy : 0.987577397873749, precision : 0.935908107208257, recall : 0.9469429004547751
+2022-01-21 14:43:06,411 - main - INFO - train - 110 : Previous f1 score is 0.9369954223886807 and current f1 score is 0.9413931681178834, best model has been saved in /data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/saved_models/bert-large-wwm-conll03/pytorch_model.bin
+2022-01-21 14:43:29,738 - main - INFO - train - 102 : Epoch : 3, global_step : 1578/13140, loss_value : 29.225203086589946 
+2022-01-21 14:44:17,594 - main - INFO - train - 102 : Epoch : 3, global_step : 1665/13140, loss_value : 31.131765277906396 
+2022-01-21 14:45:05,510 - main - INFO - train - 102 : Epoch : 3, global_step : 1752/13140, loss_value : 26.038305929337426 
+2022-01-21 14:45:07,187 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:45:22,400 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9559    0.9679    0.9619      1837
+        misc     0.8949    0.8627    0.8785       918
+organisation     0.8991    0.9045    0.9018      1340
+      person     0.9799    0.9783    0.9791      1842
+
+   micro avg     0.9413    0.9405    0.9409      5937
+   macro avg     0.9325    0.9283    0.9303      5937
+weighted avg     0.9411    0.9405    0.9408      5937
+
+2022-01-21 14:45:22,400 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9409385794927964, accuracy : 0.988317302075626, precision : 0.9413351314902225, recall : 0.9405423614620179
+2022-01-21 14:45:22,400 - main - INFO - train - 115 : Left patience is 99
+2022-01-21 14:46:10,988 - main - INFO - train - 102 : Epoch : 4, global_step : 1843/13140, loss_value : 18.901879738117085 
+2022-01-21 14:46:58,566 - main - INFO - train - 102 : Epoch : 4, global_step : 1930/13140, loss_value : 17.97585099318932 
+2022-01-21 14:47:23,642 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:47:38,791 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9673    0.9668    0.9671      1837
+        misc     0.8320    0.8954    0.8625       918
+organisation     0.9108    0.9067    0.9088      1340
+      person     0.9660    0.9864    0.9761      1842
+
+   micro avg     0.9323    0.9483    0.9402      5937
+   macro avg     0.9190    0.9388    0.9286      5937
+weighted avg     0.9332    0.9483    0.9405      5937
+
+2022-01-21 14:47:38,792 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9402137608550434, accuracy : 0.988181003933175, precision : 0.9322735552243749, recall : 0.9482903823479872
+2022-01-21 14:47:38,793 - main - INFO - train - 115 : Left patience is 98
+2022-01-21 14:48:01,563 - main - INFO - train - 102 : Epoch : 4, global_step : 2017/13140, loss_value : 20.70488993326823 
+2022-01-21 14:48:49,519 - main - INFO - train - 102 : Epoch : 4, global_step : 2104/13140, loss_value : 21.988515875805383 
+2022-01-21 14:49:37,411 - main - INFO - train - 102 : Epoch : 4, global_step : 2191/13140, loss_value : 17.916628508732238 
+2022-01-21 14:49:39,057 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:49:54,257 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9714    0.9608    0.9661      1837
+        misc     0.8548    0.9107    0.8819       918
+organisation     0.9316    0.9149    0.9232      1340
+      person     0.9816    0.9848    0.9832      1842
+
+   micro avg     0.9466    0.9501    0.9484      5937
+   macro avg     0.9348    0.9428    0.9386      5937
+weighted avg     0.9476    0.9501    0.9487      5937
+
+2022-01-21 14:49:54,258 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9483860121049092, accuracy : 0.9890377351142957, precision : 0.9466353415002517, recall : 0.9501431699511538
+2022-01-21 14:50:02,630 - main - INFO - train - 110 : Previous f1 score is 0.9413931681178834 and current f1 score is 0.9483860121049092, best model has been saved in /data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/saved_models/bert-large-wwm-conll03/pytorch_model.bin
+2022-01-21 14:50:51,938 - main - INFO - train - 102 : Epoch : 5, global_step : 2282/13140, loss_value : 15.226458735849665 
+2022-01-21 14:51:40,442 - main - INFO - train - 102 : Epoch : 5, global_step : 2369/13140, loss_value : 15.505250645780015 
+2022-01-21 14:52:05,223 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:52:20,280 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9490    0.9728    0.9608      1837
+        misc     0.8681    0.8889    0.8784       918
+organisation     0.9152    0.9179    0.9165      1340
+      person     0.9727    0.9848    0.9787      1842
+
+   micro avg     0.9362    0.9512    0.9436      5937
+   macro avg     0.9262    0.9411    0.9336      5937
+weighted avg     0.9362    0.9512    0.9436      5937
+
+2022-01-21 14:52:20,281 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9436043111371043, accuracy : 0.988589898360528, precision : 0.9361737400530504, recall : 0.9511537813710629
+2022-01-21 14:52:20,281 - main - INFO - train - 115 : Left patience is 97
+2022-01-21 14:52:43,578 - main - INFO - train - 102 : Epoch : 5, global_step : 2456/13140, loss_value : 14.217581803771271 
+2022-01-21 14:53:31,179 - main - INFO - train - 102 : Epoch : 5, global_step : 2543/13140, loss_value : 15.889886856079102 
+2022-01-21 14:54:18,975 - main - INFO - train - 102 : Epoch : 5, global_step : 2630/13140, loss_value : 13.720339654505938 
+2022-01-21 14:54:20,618 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:54:35,856 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9491    0.9750    0.9619      1837
+        misc     0.8636    0.8965    0.8797       918
+organisation     0.9362    0.9090    0.9224      1340
+      person     0.9837    0.9810    0.9823      1842
+
+   micro avg     0.9433    0.9498    0.9465      5937
+   macro avg     0.9331    0.9404    0.9366      5937
+weighted avg     0.9437    0.9498    0.9466      5937
+
+2022-01-21 14:54:35,857 - main.utils - INFO - compute_f1 - 141 : F1 : 0.946537977339488, accuracy : 0.9893298025624051, precision : 0.9432920709267314, recall : 0.9498062994778508
+2022-01-21 14:54:35,857 - main - INFO - train - 115 : Left patience is 96
+2022-01-21 14:55:24,417 - main - INFO - train - 102 : Epoch : 6, global_step : 2721/13140, loss_value : 12.691906786513055 
+2022-01-21 14:56:12,198 - main - INFO - train - 102 : Epoch : 6, global_step : 2808/13140, loss_value : 13.52397206185878 
+2022-01-21 14:56:36,980 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:56:52,136 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9585    0.9559    0.9572      1837
+        misc     0.8517    0.8943    0.8725       918
+organisation     0.9083    0.9239    0.9160      1340
+      person     0.9743    0.9870    0.9806      1842
+
+   micro avg     0.9349    0.9488    0.9418      5937
+   macro avg     0.9232    0.9403    0.9316      5937
+weighted avg     0.9355    0.9488    0.9421      5937
+
+2022-01-21 14:56:52,137 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9418157498746028, accuracy : 0.9882004750963822, precision : 0.9349377593360996, recall : 0.9487956880579417
+2022-01-21 14:56:52,138 - main - INFO - train - 115 : Left patience is 95
+2022-01-21 14:57:15,345 - main - INFO - train - 102 : Epoch : 6, global_step : 2895/13140, loss_value : 11.352864945071866 
+2022-01-21 14:58:02,721 - main - INFO - train - 102 : Epoch : 6, global_step : 2982/13140, loss_value : 15.213880527978656 
+2022-01-21 14:58:50,635 - main - INFO - train - 102 : Epoch : 6, global_step : 3069/13140, loss_value : 10.891114443198017 
+2022-01-21 14:58:52,283 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 14:59:07,449 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9633    0.9570    0.9601      1837
+        misc     0.8576    0.8791    0.8682       918
+organisation     0.8855    0.9463    0.9149      1340
+      person     0.9832    0.9826    0.9829      1842
+
+   micro avg     0.9344    0.9505    0.9424      5937
+   macro avg     0.9224    0.9412    0.9315      5937
+weighted avg     0.9355    0.9505    0.9428      5937
+
+2022-01-21 14:59:07,449 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9423847695390781, accuracy : 0.9880057634643094, precision : 0.9344262295081968, recall : 0.9504800404244568
+2022-01-21 14:59:07,450 - main - INFO - train - 115 : Left patience is 94
+2022-01-21 14:59:56,554 - main - INFO - train - 102 : Epoch : 7, global_step : 3160/13140, loss_value : 9.790569305419922 
+2022-01-21 15:00:44,228 - main - INFO - train - 102 : Epoch : 7, global_step : 3247/13140, loss_value : 8.6787074297324 
+2022-01-21 15:01:08,684 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:01:23,809 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9549    0.9690    0.9619      1837
+        misc     0.8692    0.8976    0.8832       918
+organisation     0.9267    0.9246    0.9257      1340
+      person     0.9795    0.9853    0.9824      1842
+
+   micro avg     0.9427    0.9530    0.9478      5937
+   macro avg     0.9326    0.9441    0.9383      5937
+weighted avg     0.9429    0.9530    0.9479      5937
+
+2022-01-21 15:01:23,809 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9478180752156797, accuracy : 0.9892129755831613, precision : 0.9426857714095301, recall : 0.9530065689742294
+2022-01-21 15:01:23,810 - main - INFO - train - 115 : Left patience is 93
+2022-01-21 15:01:46,497 - main - INFO - train - 102 : Epoch : 7, global_step : 3334/13140, loss_value : 8.799324430268387 
+2022-01-21 15:02:33,728 - main - INFO - train - 102 : Epoch : 7, global_step : 3421/13140, loss_value : 8.864782486838855 
+2022-01-21 15:03:21,867 - main - INFO - train - 102 : Epoch : 7, global_step : 3508/13140, loss_value : 10.882711509178424 
+2022-01-21 15:03:23,508 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:03:38,653 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9584    0.9668    0.9626      1837
+        misc     0.9120    0.8693    0.8901       918
+organisation     0.9068    0.9291    0.9178      1340
+      person     0.9758    0.9859    0.9808      1842
+
+   micro avg     0.9452    0.9491    0.9471      5937
+   macro avg     0.9383    0.9378    0.9378      5937
+weighted avg     0.9450    0.9491    0.9469      5937
+
+2022-01-21 15:03:38,654 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9471384149928564, accuracy : 0.9885704271973208, precision : 0.9451526333445153, recall : 0.9491325585312448
+2022-01-21 15:03:38,655 - main - INFO - train - 115 : Left patience is 92
+2022-01-21 15:04:27,458 - main - INFO - train - 102 : Epoch : 8, global_step : 3599/13140, loss_value : 9.27785522636326 
+2022-01-21 15:05:14,780 - main - INFO - train - 102 : Epoch : 8, global_step : 3686/13140, loss_value : 12.466860409440665 
+2022-01-21 15:05:39,605 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:05:55,023 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9621    0.9668    0.9644      1837
+        misc     0.8860    0.9139    0.8997       918
+organisation     0.9203    0.9224    0.9214      1340
+      person     0.9837    0.9826    0.9832      1842
+
+   micro avg     0.9473    0.9535    0.9504      5937
+   macro avg     0.9380    0.9464    0.9422      5937
+weighted avg     0.9476    0.9535    0.9505      5937
+
+2022-01-21 15:05:55,023 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9503903298917149, accuracy : 0.9893298025624051, precision : 0.947289156626506, recall : 0.953511874684184
+2022-01-21 15:06:03,916 - main - INFO - train - 110 : Previous f1 score is 0.9483860121049092 and current f1 score is 0.9503903298917149, best model has been saved in /data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/saved_models/bert-large-wwm-conll03/pytorch_model.bin
+2022-01-21 15:06:27,391 - main - INFO - train - 102 : Epoch : 8, global_step : 3773/13140, loss_value : 8.901899030838889 
+2022-01-21 15:07:14,672 - main - INFO - train - 102 : Epoch : 8, global_step : 3860/13140, loss_value : 7.8693068712607195 
+2022-01-21 15:08:02,815 - main - INFO - train - 102 : Epoch : 8, global_step : 3947/13140, loss_value : 7.368651510655195 
+2022-01-21 15:08:04,488 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:08:19,650 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9606    0.9679    0.9642      1837
+        misc     0.8762    0.8943    0.8852       918
+organisation     0.9254    0.9254    0.9254      1340
+      person     0.9810    0.9810    0.9810      1842
+
+   micro avg     0.9457    0.9510    0.9483      5937
+   macro avg     0.9358    0.9421    0.9389      5937
+weighted avg     0.9459    0.9510    0.9484      5937
+
+2022-01-21 15:08:19,651 - main.utils - INFO - compute_f1 - 141 : F1 : 0.948349710254472, accuracy : 0.988784609992601, precision : 0.9457286432160804, recall : 0.9509853461344113
+2022-01-21 15:08:19,651 - main - INFO - train - 115 : Left patience is 91
+2022-01-21 15:09:08,442 - main - INFO - train - 102 : Epoch : 9, global_step : 4038/13140, loss_value : 5.394139256970636 
+2022-01-21 15:09:57,089 - main - INFO - train - 102 : Epoch : 9, global_step : 4125/13140, loss_value : 5.317410195010832 
+2022-01-21 15:10:22,307 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:10:37,448 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9710    0.9646    0.9678      1837
+        misc     0.8476    0.9031    0.8745       918
+organisation     0.9204    0.9239    0.9222      1340
+      person     0.9784    0.9832    0.9808      1842
+
+   micro avg     0.9418    0.9517    0.9467      5937
+   macro avg     0.9294    0.9437    0.9363      5937
+weighted avg     0.9428    0.9517    0.9471      5937
+
+2022-01-21 15:10:37,448 - main.utils - INFO - compute_f1 - 141 : F1 : 0.94671581769437, accuracy : 0.9892519179095759, precision : 0.9418236372728788, recall : 0.9516590870810173
+2022-01-21 15:10:37,448 - main - INFO - train - 115 : Left patience is 90
+2022-01-21 15:11:00,595 - main - INFO - train - 102 : Epoch : 9, global_step : 4212/13140, loss_value : 5.972497742751549 
+2022-01-21 15:11:49,481 - main - INFO - train - 102 : Epoch : 9, global_step : 4299/13140, loss_value : 5.194910597527164 
+2022-01-21 15:12:38,149 - main - INFO - train - 102 : Epoch : 9, global_step : 4386/13140, loss_value : 8.181024551391602 
+2022-01-21 15:12:39,938 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:12:55,215 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9770    0.9461    0.9613      1837
+        misc     0.8633    0.8878    0.8754       918
+organisation     0.9045    0.9328    0.9184      1340
+      person     0.9794    0.9815    0.9805      1842
+
+   micro avg     0.9429    0.9451    0.9440      5937
+   macro avg     0.9311    0.9371    0.9339      5937
+weighted avg     0.9438    0.9451    0.9443      5937
+
+2022-01-21 15:12:55,216 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9439771197846568, accuracy : 0.9877721095058218, precision : 0.9428667450848597, recall : 0.9450901128516086
+2022-01-21 15:12:55,216 - main - INFO - train - 115 : Left patience is 89
+2022-01-21 15:13:43,727 - main - INFO - train - 102 : Epoch : 10, global_step : 4477/13140, loss_value : 5.1396638826392165 
+2022-01-21 15:14:31,459 - main - INFO - train - 102 : Epoch : 10, global_step : 4564/13140, loss_value : 5.459954535824129 
+2022-01-21 15:14:56,944 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:15:12,140 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9544    0.9684    0.9614      1837
+        misc     0.8729    0.8976    0.8851       918
+organisation     0.9156    0.9149    0.9153      1340
+      person     0.9815    0.9783    0.9799      1842
+
+   micro avg     0.9412    0.9485    0.9448      5937
+   macro avg     0.9311    0.9398    0.9354      5937
+weighted avg     0.9414    0.9485    0.9449      5937
+
+2022-01-21 15:15:12,141 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9447986577181208, accuracy : 0.9882004750963822, precision : 0.9411666388099615, recall : 0.9484588175846387
+2022-01-21 15:15:12,141 - main - INFO - train - 115 : Left patience is 88
+2022-01-21 15:15:35,839 - main - INFO - train - 102 : Epoch : 10, global_step : 4651/13140, loss_value : 6.059752826032968 
+2022-01-21 15:16:24,855 - main - INFO - train - 102 : Epoch : 10, global_step : 4738/13140, loss_value : 3.771913133818528 
+2022-01-21 15:17:12,786 - main - INFO - train - 102 : Epoch : 10, global_step : 4825/13140, loss_value : 4.95831263750449 
+2022-01-21 15:17:14,635 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:17:29,961 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9621    0.9673    0.9647      1837
+        misc     0.8933    0.8845    0.8889       918
+organisation     0.9052    0.9261    0.9155      1340
+      person     0.9763    0.9843    0.9803      1842
+
+   micro avg     0.9430    0.9505    0.9467      5937
+   macro avg     0.9342    0.9406    0.9373      5937
+weighted avg     0.9430    0.9505    0.9467      5937
+
+2022-01-21 15:17:29,962 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9467326566563207, accuracy : 0.9890961486039176, precision : 0.9430147058823529, recall : 0.9504800404244568
+2022-01-21 15:17:29,962 - main - INFO - train - 115 : Left patience is 87
+2022-01-21 15:18:18,700 - main - INFO - train - 102 : Epoch : 11, global_step : 4916/13140, loss_value : 3.758553077434671 
+2022-01-21 15:19:07,204 - main - INFO - train - 102 : Epoch : 11, global_step : 5003/13140, loss_value : 6.440950875994803 
+2022-01-21 15:19:32,298 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:19:47,609 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9541    0.9733    0.9636      1837
+        misc     0.8723    0.8932    0.8827       918
+organisation     0.9212    0.9075    0.9143      1340
+      person     0.9819    0.9718    0.9768      1842
+
+   micro avg     0.9424    0.9456    0.9440      5937
+   macro avg     0.9324    0.9365    0.9343      5937
+weighted avg     0.9427    0.9456    0.9441      5937
+
+2022-01-21 15:19:47,609 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9440053808643013, accuracy : 0.9883562444020406, precision : 0.9424206815511164, recall : 0.945595418561563
+2022-01-21 15:19:47,610 - main - INFO - train - 115 : Left patience is 86
+2022-01-21 15:20:11,019 - main - INFO - train - 102 : Epoch : 11, global_step : 5090/13140, loss_value : 4.935214514019846 
+2022-01-21 15:20:59,041 - main - INFO - train - 102 : Epoch : 11, global_step : 5177/13140, loss_value : 5.8687783822245985 
+2022-01-21 15:21:47,291 - main - INFO - train - 102 : Epoch : 11, global_step : 5264/13140, loss_value : 7.40858189813022 
+2022-01-21 15:21:48,920 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:22:04,161 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9461    0.9744    0.9600      1837
+        misc     0.8124    0.8965    0.8524       918
+organisation     0.9294    0.8649    0.8960      1340
+      person     0.9655    0.9864    0.9758      1842
+
+   micro avg     0.9263    0.9414    0.9338      5937
+   macro avg     0.9134    0.9306    0.9211      5937
+weighted avg     0.9277    0.9414    0.9338      5937
+
+2022-01-21 15:22:04,162 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9337565783977947, accuracy : 0.9872853304256396, precision : 0.9262512429565793, recall : 0.9413845376452754
+2022-01-21 15:22:04,162 - main - INFO - train - 115 : Left patience is 85
+2022-01-21 15:22:52,751 - main - INFO - train - 102 : Epoch : 12, global_step : 5355/13140, loss_value : 6.617918759926982 
+2022-01-21 15:23:40,892 - main - INFO - train - 102 : Epoch : 12, global_step : 5442/13140, loss_value : 5.1763531257366315 
+2022-01-21 15:24:06,145 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:24:21,298 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9676    0.9597    0.9637      1837
+        misc     0.8734    0.9096    0.8911       918
+organisation     0.9082    0.9231    0.9156      1340
+      person     0.9794    0.9788    0.9791      1842
+
+   micro avg     0.9427    0.9496    0.9461      5937
+   macro avg     0.9322    0.9428    0.9374      5937
+weighted avg     0.9433    0.9496    0.9464      5937
+
+2022-01-21 15:24:21,299 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9461319013257258, accuracy : 0.9886483118501499, precision : 0.9426517304798528, recall : 0.9496378642411992
+2022-01-21 15:24:21,299 - main - INFO - train - 115 : Left patience is 84
+2022-01-21 15:24:44,464 - main - INFO - train - 102 : Epoch : 12, global_step : 5529/13140, loss_value : 4.734130990916285 
+2022-01-21 15:25:32,598 - main - INFO - train - 102 : Epoch : 12, global_step : 5616/13140, loss_value : 4.70264980710786 
+2022-01-21 15:26:21,100 - main - INFO - train - 102 : Epoch : 12, global_step : 5703/13140, loss_value : 5.478722100970389 
+2022-01-21 15:26:22,713 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:26:37,788 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9697    0.9592    0.9644      1837
+        misc     0.8750    0.8922    0.8835       918
+organisation     0.8953    0.9313    0.9129      1340
+      person     0.9779    0.9859    0.9819      1842
+
+   micro avg     0.9402    0.9508    0.9455      5937
+   macro avg     0.9295    0.9421    0.9357      5937
+weighted avg     0.9408    0.9508    0.9457      5937
+
+2022-01-21 15:26:37,789 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9454819529352652, accuracy : 0.9890182639510884, precision : 0.9402065289806796, recall : 0.9508169108977598
+2022-01-21 15:26:37,789 - main - INFO - train - 115 : Left patience is 83
+2022-01-21 15:27:27,102 - main - INFO - train - 102 : Epoch : 13, global_step : 5794/13140, loss_value : 3.9554145418364426 
+2022-01-21 15:28:15,867 - main - INFO - train - 102 : Epoch : 13, global_step : 5881/13140, loss_value : 4.228601938006522 
+2022-01-21 15:28:40,869 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:28:56,024 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9594    0.9646    0.9620      1837
+        misc     0.8849    0.9129    0.8987       918
+organisation     0.9023    0.9231    0.9126      1340
+      person     0.9784    0.9821    0.9802      1842
+
+   micro avg     0.9405    0.9527    0.9465      5937
+   macro avg     0.9312    0.9457    0.9384      5937
+weighted avg     0.9409    0.9527    0.9467      5937
+
+2022-01-21 15:28:56,025 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9465316709898753, accuracy : 0.9891350909303321, precision : 0.9404722314599269, recall : 0.9526696985009264
+2022-01-21 15:28:56,027 - main - INFO - train - 115 : Left patience is 82
+2022-01-21 15:29:19,264 - main - INFO - train - 102 : Epoch : 13, global_step : 5968/13140, loss_value : 5.707684505944965 
+2022-01-21 15:30:08,117 - main - INFO - train - 102 : Epoch : 13, global_step : 6055/13140, loss_value : 3.9272817633617882 
+2022-01-21 15:30:57,054 - main - INFO - train - 102 : Epoch : 13, global_step : 6142/13140, loss_value : 4.616986461069392 
+2022-01-21 15:30:58,854 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:31:14,172 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9522    0.9652    0.9586      1837
+        misc     0.8786    0.9063    0.8922       918
+organisation     0.9210    0.9224    0.9217      1340
+      person     0.9789    0.9815    0.9802      1842
+
+   micro avg     0.9418    0.9515    0.9466      5937
+   macro avg     0.9327    0.9439    0.9382      5937
+weighted avg     0.9421    0.9515    0.9467      5937
+
+2022-01-21 15:31:14,173 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9466275659824047, accuracy : 0.9889793216246738, precision : 0.9418139379793264, recall : 0.9514906518443659
+2022-01-21 15:31:14,173 - main - INFO - train - 115 : Left patience is 81
+2022-01-21 15:32:02,901 - main - INFO - train - 102 : Epoch : 14, global_step : 6233/13140, loss_value : 3.1277345460036705 
+2022-01-21 15:32:51,409 - main - INFO - train - 102 : Epoch : 14, global_step : 6320/13140, loss_value : 3.8040716017799814 
+2022-01-21 15:33:16,485 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:33:31,648 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9609    0.9630    0.9619      1837
+        misc     0.8980    0.8922    0.8951       918
+organisation     0.9090    0.9313    0.9200      1340
+      person     0.9815    0.9772    0.9793      1842
+
+   micro avg     0.9456    0.9493    0.9475      5937
+   macro avg     0.9373    0.9409    0.9391      5937
+weighted avg     0.9458    0.9493    0.9475      5937
+
+2022-01-21 15:33:31,648 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9474657476674792, accuracy : 0.9888624946454301, precision : 0.9456375838926174, recall : 0.9493009937678962
+2022-01-21 15:33:31,649 - main - INFO - train - 115 : Left patience is 80
+2022-01-21 15:33:54,799 - main - INFO - train - 102 : Epoch : 14, global_step : 6407/13140, loss_value : 3.8550019976736487 
+2022-01-21 15:34:43,093 - main - INFO - train - 102 : Epoch : 14, global_step : 6494/13140, loss_value : 4.979972642043541 
+2022-01-21 15:35:30,266 - main - INFO - train - 102 : Epoch : 14, global_step : 6581/13140, loss_value : 3.129188997992154 
+2022-01-21 15:35:32,077 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:35:47,313 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9564    0.9679    0.9621      1837
+        misc     0.8879    0.8976    0.8927       918
+organisation     0.9054    0.9284    0.9167      1340
+      person     0.9810    0.9794    0.9802      1842
+
+   micro avg     0.9417    0.9517    0.9466      5937
+   macro avg     0.9327    0.9433    0.9379      5937
+weighted avg     0.9419    0.9517    0.9467      5937
+
+2022-01-21 15:35:47,313 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9466365083354277, accuracy : 0.9890766774407103, precision : 0.9416666666666667, recall : 0.9516590870810173
+2022-01-21 15:35:47,314 - main - INFO - train - 115 : Left patience is 79
+2022-01-21 15:36:37,180 - main - INFO - train - 102 : Epoch : 15, global_step : 6672/13140, loss_value : 2.6968971340135597 
+2022-01-21 15:37:25,765 - main - INFO - train - 102 : Epoch : 15, global_step : 6759/13140, loss_value : 3.7422105854955214 
+2022-01-21 15:37:50,736 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:38:05,880 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9554    0.9690    0.9622      1837
+        misc     0.9102    0.8725    0.8910       918
+organisation     0.8739    0.9306    0.9013      1340
+      person     0.9772    0.9539    0.9654      1842
+
+   micro avg     0.9358    0.9407    0.9383      5937
+   macro avg     0.9292    0.9315    0.9300      5937
+weighted avg     0.9368    0.9407    0.9384      5937
+
+2022-01-21 15:38:05,880 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9382612347753044, accuracy : 0.9877136960162, precision : 0.9358243967828418, recall : 0.9407107966986694
+2022-01-21 15:38:05,881 - main - INFO - train - 115 : Left patience is 78
+2022-01-21 15:38:29,305 - main - INFO - train - 102 : Epoch : 15, global_step : 6846/13140, loss_value : 3.5956697573606995 
+2022-01-21 15:39:18,482 - main - INFO - train - 102 : Epoch : 15, global_step : 6933/13140, loss_value : 4.0725755143439635 
+2022-01-21 15:40:06,971 - main - INFO - train - 102 : Epoch : 15, global_step : 7020/13140, loss_value : 3.176587598077182 
+2022-01-21 15:40:08,660 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:40:23,964 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9580    0.9679    0.9629      1837
+        misc     0.8846    0.8932    0.8889       918
+organisation     0.9224    0.9231    0.9228      1340
+      person     0.9756    0.9788    0.9772      1842
+
+   micro avg     0.9441    0.9496    0.9468      5937
+   macro avg     0.9352    0.9408    0.9380      5937
+weighted avg     0.9441    0.9496    0.9469      5937
+
+2022-01-21 15:40:23,965 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9468469224955914, accuracy : 0.9889014369718447, precision : 0.9440723375753517, recall : 0.9496378642411992
+2022-01-21 15:40:23,965 - main - INFO - train - 115 : Left patience is 77
+2022-01-21 15:41:12,929 - main - INFO - train - 102 : Epoch : 16, global_step : 7111/13140, loss_value : 2.503789397491806 
+2022-01-21 15:42:00,776 - main - INFO - train - 102 : Epoch : 16, global_step : 7198/13140, loss_value : 3.6106676781314544 
+2022-01-21 15:42:25,859 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:42:40,986 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9636    0.9662    0.9649      1837
+        misc     0.9070    0.9031    0.9050       918
+organisation     0.9137    0.9239    0.9187      1340
+      person     0.9758    0.9832    0.9794      1842
+
+   micro avg     0.9474    0.9522    0.9498      5937
+   macro avg     0.9400    0.9441    0.9420      5937
+weighted avg     0.9474    0.9522    0.9497      5937
+
+2022-01-21 15:42:40,986 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9497647849462365, accuracy : 0.9893687448888197, precision : 0.9473772414948886, recall : 0.9521643927909719
+2022-01-21 15:42:40,987 - main - INFO - train - 115 : Left patience is 76
+2022-01-21 15:43:04,153 - main - INFO - train - 102 : Epoch : 16, global_step : 7285/13140, loss_value : 2.841549906237372 
+2022-01-21 15:43:52,938 - main - INFO - train - 102 : Epoch : 16, global_step : 7372/13140, loss_value : 3.0283476292401894 
+2022-01-21 15:44:41,783 - main - INFO - train - 102 : Epoch : 16, global_step : 7459/13140, loss_value : 2.7911752503493736 
+2022-01-21 15:44:43,607 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:44:58,781 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9714    0.9624    0.9669      1837
+        misc     0.8909    0.8987    0.8948       918
+organisation     0.9132    0.9261    0.9196      1340
+      person     0.9784    0.9843    0.9813      1842
+
+   micro avg     0.9478    0.9512    0.9495      5937
+   macro avg     0.9385    0.9429    0.9407      5937
+weighted avg     0.9480    0.9512    0.9496      5937
+
+2022-01-21 15:44:58,783 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9494745691467003, accuracy : 0.9891350909303321, precision : 0.9478012755958375, recall : 0.9511537813710629
+2022-01-21 15:44:58,783 - main - INFO - train - 115 : Left patience is 75
+2022-01-21 15:45:48,338 - main - INFO - train - 102 : Epoch : 17, global_step : 7550/13140, loss_value : 3.194451014200846 
+2022-01-21 15:46:36,571 - main - INFO - train - 102 : Epoch : 17, global_step : 7637/13140, loss_value : 2.4658903801578216 
+2022-01-21 15:47:01,562 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:47:16,823 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9678    0.9641    0.9659      1837
+        misc     0.8949    0.8900    0.8924       918
+organisation     0.8980    0.9194    0.9086      1340
+      person     0.9800    0.9832    0.9816      1842
+
+   micro avg     0.9443    0.9485    0.9464      5937
+   macro avg     0.9351    0.9392    0.9371      5937
+weighted avg     0.9445    0.9485    0.9465      5937
+
+2022-01-21 15:47:16,824 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9463865546218487, accuracy : 0.9886872541765646, precision : 0.9443233271843032, recall : 0.9484588175846387
+2022-01-21 15:47:16,825 - main - INFO - train - 115 : Left patience is 74
+2022-01-21 15:47:40,271 - main - INFO - train - 102 : Epoch : 17, global_step : 7724/13140, loss_value : 2.6879191343811737 
+2022-01-21 15:48:28,571 - main - INFO - train - 102 : Epoch : 17, global_step : 7811/13140, loss_value : 1.7765698487731232 
+2022-01-21 15:49:16,393 - main - INFO - train - 102 : Epoch : 17, global_step : 7898/13140, loss_value : 2.704546172043373 
+2022-01-21 15:49:18,235 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:49:33,489 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9662    0.9657    0.9660      1837
+        misc     0.8494    0.8911    0.8698       918
+organisation     0.9195    0.9127    0.9161      1340
+      person     0.9810    0.9815    0.9813      1842
+
+   micro avg     0.9416    0.9471    0.9443      5937
+   macro avg     0.9291    0.9378    0.9333      5937
+weighted avg     0.9422    0.9471    0.9446      5937
+
+2022-01-21 15:49:33,489 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9443278192963306, accuracy : 0.9885704271973208, precision : 0.9415606162089752, recall : 0.9471113356914267
+2022-01-21 15:49:33,490 - main - INFO - train - 115 : Left patience is 73
+2022-01-21 15:50:22,285 - main - INFO - train - 102 : Epoch : 18, global_step : 7989/13140, loss_value : 2.1349771433863145 
+2022-01-21 15:51:10,415 - main - INFO - train - 102 : Epoch : 18, global_step : 8076/13140, loss_value : 2.437417940161694 
+2022-01-21 15:51:35,434 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:51:50,734 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9684    0.9684    0.9684      1837
+        misc     0.8829    0.9031    0.8928       918
+organisation     0.9050    0.9246    0.9147      1340
+      person     0.9816    0.9832    0.9824      1842
+
+   micro avg     0.9446    0.9530    0.9488      5937
+   macro avg     0.9345    0.9448    0.9396      5937
+weighted avg     0.9450    0.9530    0.9489      5937
+
+2022-01-21 15:51:50,735 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9487716944747212, accuracy : 0.9894661007048561, precision : 0.9445742904841402, recall : 0.9530065689742294
+2022-01-21 15:51:50,735 - main - INFO - train - 115 : Left patience is 72
+2022-01-21 15:52:13,945 - main - INFO - train - 102 : Epoch : 18, global_step : 8163/13140, loss_value : 1.8691133521069054 
+2022-01-21 15:53:00,888 - main - INFO - train - 102 : Epoch : 18, global_step : 8250/13140, loss_value : 2.091337203979492 
+2022-01-21 15:53:49,397 - main - INFO - train - 102 : Epoch : 18, global_step : 8337/13140, loss_value : 1.333696518821278 
+2022-01-21 15:53:51,379 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:54:06,635 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9668    0.9673    0.9671      1837
+        misc     0.9028    0.9009    0.9019       918
+organisation     0.8966    0.9254    0.9108      1340
+      person     0.9816    0.9848    0.9832      1842
+
+   micro avg     0.9454    0.9530    0.9492      5937
+   macro avg     0.9370    0.9446    0.9407      5937
+weighted avg     0.9457    0.9530    0.9493      5937
+
+2022-01-21 15:54:06,636 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9491696024157021, accuracy : 0.9894661007048561, precision : 0.9453634085213033, recall : 0.9530065689742294
+2022-01-21 15:54:06,636 - main - INFO - train - 115 : Left patience is 71
+2022-01-21 15:54:55,608 - main - INFO - train - 102 : Epoch : 19, global_step : 8428/13140, loss_value : 1.4669255443002986 
+2022-01-21 15:55:43,978 - main - INFO - train - 102 : Epoch : 19, global_step : 8515/13140, loss_value : 2.5801761451808884 
+2022-01-21 15:56:08,785 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:56:23,881 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9610    0.9657    0.9633      1837
+        misc     0.8929    0.8987    0.8958       918
+organisation     0.9148    0.9299    0.9223      1340
+      person     0.9784    0.9821    0.9802      1842
+
+   micro avg     0.9453    0.9523    0.9488      5937
+   macro avg     0.9368    0.9441    0.9404      5937
+weighted avg     0.9454    0.9523    0.9489      5937
+
+2022-01-21 15:56:23,881 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9488169155898641, accuracy : 0.9892324467463687, precision : 0.9453268684166527, recall : 0.9523328280276234
+2022-01-21 15:56:23,882 - main - INFO - train - 115 : Left patience is 70
+2022-01-21 15:56:47,538 - main - INFO - train - 102 : Epoch : 19, global_step : 8602/13140, loss_value : 1.9155679242364292 
+2022-01-21 15:57:35,890 - main - INFO - train - 102 : Epoch : 19, global_step : 8689/13140, loss_value : 1.9813565221326104 
+2022-01-21 15:58:23,605 - main - INFO - train - 102 : Epoch : 19, global_step : 8776/13140, loss_value : 3.167829316237877 
+2022-01-21 15:58:25,305 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 15:58:40,467 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9555    0.9711    0.9633      1837
+        misc     0.9070    0.8922    0.8995       918
+organisation     0.9141    0.9291    0.9215      1340
+      person     0.9788    0.9794    0.9791      1842
+
+   micro avg     0.9459    0.9520    0.9490      5937
+   macro avg     0.9389    0.9429    0.9409      5937
+weighted avg     0.9459    0.9520    0.9489      5937
+
+2022-01-21 15:58:40,467 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9489590329079919, accuracy : 0.989057206277503, precision : 0.9459414225941423, recall : 0.9519959575543203
+2022-01-21 15:58:40,468 - main - INFO - train - 115 : Left patience is 69
+2022-01-21 15:59:29,423 - main - INFO - train - 102 : Epoch : 20, global_step : 8867/13140, loss_value : 1.426961635721141 
+2022-01-21 16:00:17,878 - main - INFO - train - 102 : Epoch : 20, global_step : 8954/13140, loss_value : 1.680431979826127 
+2022-01-21 16:00:42,736 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:00:57,911 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9580    0.9690    0.9635      1837
+        misc     0.8981    0.8932    0.8957       918
+organisation     0.9268    0.9254    0.9261      1340
+      person     0.9793    0.9777    0.9785      1842
+
+   micro avg     0.9484    0.9501    0.9493      5937
+   macro avg     0.9406    0.9413    0.9409      5937
+weighted avg     0.9483    0.9501    0.9492      5937
+
+2022-01-21 16:00:57,912 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9492637778712663, accuracy : 0.9889987927878812, precision : 0.9483860121049092, recall : 0.9501431699511538
+2022-01-21 16:00:57,912 - main - INFO - train - 115 : Left patience is 68
+2022-01-21 16:01:21,214 - main - INFO - train - 102 : Epoch : 20, global_step : 9041/13140, loss_value : 2.1697195425800895 
+2022-01-21 16:02:09,401 - main - INFO - train - 102 : Epoch : 20, global_step : 9128/13140, loss_value : 1.2119284881942574 
+2022-01-21 16:02:57,836 - main - INFO - train - 102 : Epoch : 20, global_step : 9215/13140, loss_value : 1.8047382530124707 
+2022-01-21 16:02:59,459 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:03:14,674 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9605    0.9662    0.9634      1837
+        misc     0.8784    0.8889    0.8836       918
+organisation     0.9187    0.9276    0.9231      1340
+      person     0.9758    0.9859    0.9808      1842
+
+   micro avg     0.9431    0.9517    0.9474      5937
+   macro avg     0.9333    0.9422    0.9377      5937
+weighted avg     0.9431    0.9517    0.9474      5937
+
+2022-01-21 16:03:14,675 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9473507712944333, accuracy : 0.9886872541765646, precision : 0.943081288599566, recall : 0.9516590870810173
+2022-01-21 16:03:14,675 - main - INFO - train - 115 : Left patience is 67
+2022-01-21 16:04:03,456 - main - INFO - train - 102 : Epoch : 21, global_step : 9306/13140, loss_value : 1.5857848901858276 
+2022-01-21 16:04:51,903 - main - INFO - train - 102 : Epoch : 21, global_step : 9393/13140, loss_value : 1.145404201814498 
+2022-01-21 16:05:16,913 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:05:32,100 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9666    0.9619    0.9643      1837
+        misc     0.8855    0.8932    0.8894       918
+organisation     0.9235    0.9284    0.9259      1340
+      person     0.9784    0.9821    0.9802      1842
+
+   micro avg     0.9479    0.9500    0.9489      5937
+   macro avg     0.9385    0.9414    0.9399      5937
+weighted avg     0.9480    0.9500    0.9490      5937
+
+2022-01-21 16:05:32,102 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9489358122318499, accuracy : 0.9891740332567468, precision : 0.9478991596638655, recall : 0.9499747347145022
+2022-01-21 16:05:32,103 - main - INFO - train - 115 : Left patience is 66
+2022-01-21 16:05:55,346 - main - INFO - train - 102 : Epoch : 21, global_step : 9480/13140, loss_value : 1.1782527134336274 
+2022-01-21 16:06:43,613 - main - INFO - train - 102 : Epoch : 21, global_step : 9567/13140, loss_value : 1.3583579885548558 
+2022-01-21 16:07:31,816 - main - INFO - train - 102 : Epoch : 21, global_step : 9654/13140, loss_value : 1.3043673942829002 
+2022-01-21 16:07:33,565 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:07:48,760 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9557    0.9624    0.9590      1837
+        misc     0.9100    0.8922    0.9010       918
+organisation     0.9183    0.9142    0.9162      1340
+      person     0.9768    0.9837    0.9803      1842
+
+   micro avg     0.9470    0.9473    0.9471      5937
+   macro avg     0.9402    0.9381    0.9391      5937
+weighted avg     0.9467    0.9473    0.9470      5937
+
+2022-01-21 16:07:48,760 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9471202425058943, accuracy : 0.9888040811558082, precision : 0.946960767806028, recall : 0.9472797709280781
+2022-01-21 16:07:48,761 - main - INFO - train - 115 : Left patience is 65
+2022-01-21 16:08:37,545 - main - INFO - train - 102 : Epoch : 22, global_step : 9745/13140, loss_value : 0.8920547222268993 
+2022-01-21 16:09:24,997 - main - INFO - train - 102 : Epoch : 22, global_step : 9832/13140, loss_value : 1.5227883437584186 
+2022-01-21 16:09:49,794 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:10:04,921 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9620    0.9646    0.9633      1837
+        misc     0.8818    0.8856    0.8837       918
+organisation     0.9268    0.9164    0.9216      1340
+      person     0.9670    0.9870    0.9769      1842
+
+   micro avg     0.9434    0.9485    0.9459      5937
+   macro avg     0.9344    0.9384    0.9364      5937
+weighted avg     0.9432    0.9485    0.9458      5937
+
+2022-01-21 16:10:04,923 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9459096253989586, accuracy : 0.9886677830133572, precision : 0.9433740995141565, recall : 0.9484588175846387
+2022-01-21 16:10:04,923 - main - INFO - train - 115 : Left patience is 64
+2022-01-21 16:10:28,029 - main - INFO - train - 102 : Epoch : 22, global_step : 9919/13140, loss_value : 1.9453016259204383 
+2022-01-21 16:11:15,767 - main - INFO - train - 102 : Epoch : 22, global_step : 10006/13140, loss_value : 1.3746752245672818 
+2022-01-21 16:12:04,088 - main - INFO - train - 102 : Epoch : 22, global_step : 10093/13140, loss_value : 1.1769546421094872 
+2022-01-21 16:12:05,905 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:12:21,061 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9672    0.9624    0.9648      1837
+        misc     0.9089    0.8911    0.8999       918
+organisation     0.9248    0.9269    0.9258      1340
+      person     0.9753    0.9843    0.9797      1842
+
+   micro avg     0.9513    0.9501    0.9507      5937
+   macro avg     0.9440    0.9412    0.9426      5937
+weighted avg     0.9511    0.9501    0.9506      5937
+
+2022-01-21 16:12:21,062 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9507036319204516, accuracy : 0.9891740332567468, precision : 0.9512647554806071, recall : 0.9501431699511538
+2022-01-21 16:12:27,016 - main - INFO - train - 110 : Previous f1 score is 0.9503903298917149 and current f1 score is 0.9507036319204516, best model has been saved in /data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/saved_models/bert-large-wwm-conll03/pytorch_model.bin
+2022-01-21 16:13:15,963 - main - INFO - train - 102 : Epoch : 23, global_step : 10184/13140, loss_value : 0.8112045595015602 
+2022-01-21 16:14:03,609 - main - INFO - train - 102 : Epoch : 23, global_step : 10271/13140, loss_value : 1.5725640921757138 
+2022-01-21 16:14:28,088 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:14:43,242 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9581    0.9706    0.9643      1837
+        misc     0.9018    0.8900    0.8958       918
+organisation     0.9269    0.9269    0.9269      1340
+      person     0.9773    0.9832    0.9802      1842
+
+   micro avg     0.9485    0.9522    0.9503      5937
+   macro avg     0.9410    0.9427    0.9418      5937
+weighted avg     0.9483    0.9522    0.9502      5937
+
+2022-01-21 16:14:43,243 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9503236109943684, accuracy : 0.9892908602359904, precision : 0.948489932885906, recall : 0.9521643927909719
+2022-01-21 16:14:43,243 - main - INFO - train - 115 : Left patience is 63
+2022-01-21 16:15:06,224 - main - INFO - train - 102 : Epoch : 23, global_step : 10358/13140, loss_value : 0.6853054967419855 
+2022-01-21 16:15:54,371 - main - INFO - train - 102 : Epoch : 23, global_step : 10445/13140, loss_value : 1.3483008461437007 
+2022-01-21 16:16:42,571 - main - INFO - train - 102 : Epoch : 23, global_step : 10532/13140, loss_value : 1.2466845896052219 
+2022-01-21 16:16:44,202 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:16:59,370 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9636    0.9662    0.9649      1837
+        misc     0.8859    0.8965    0.8912       918
+organisation     0.9208    0.9284    0.9246      1340
+      person     0.9810    0.9832    0.9821      1842
+
+   micro avg     0.9472    0.9522    0.9497      5937
+   macro avg     0.9378    0.9436    0.9407      5937
+weighted avg     0.9473    0.9522    0.9497      5937
+
+2022-01-21 16:16:59,371 - main.utils - INFO - compute_f1 - 141 : F1 : 0.949685006299874, accuracy : 0.9890182639510884, precision : 0.9472184986595175, recall : 0.9521643927909719
+2022-01-21 16:16:59,371 - main - INFO - train - 115 : Left patience is 62
+2022-01-21 16:17:48,749 - main - INFO - train - 102 : Epoch : 24, global_step : 10623/13140, loss_value : 0.9211731614737675 
+2022-01-21 16:18:37,631 - main - INFO - train - 102 : Epoch : 24, global_step : 10710/13140, loss_value : 0.9408419378872576 
+2022-01-21 16:19:02,208 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:19:17,407 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9658    0.9673    0.9665      1837
+        misc     0.8986    0.8976    0.8981       918
+organisation     0.9308    0.9239    0.9273      1340
+      person     0.9769    0.9859    0.9814      1842
+
+   micro avg     0.9511    0.9525    0.9518      5937
+   macro avg     0.9430    0.9437    0.9433      5937
+weighted avg     0.9509    0.9525    0.9517      5937
+
+2022-01-21 16:19:17,408 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9517798535723302, accuracy : 0.9893103313991978, precision : 0.9510595358224017, recall : 0.9525012632642749
+2022-01-21 16:19:21,451 - main - INFO - train - 110 : Previous f1 score is 0.9507036319204516 and current f1 score is 0.9517798535723302, best model has been saved in /data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/saved_models/bert-large-wwm-conll03/pytorch_model.bin
+2022-01-21 16:19:44,772 - main - INFO - train - 102 : Epoch : 24, global_step : 10797/13140, loss_value : 0.6528162462957974 
+2022-01-21 16:20:33,316 - main - INFO - train - 102 : Epoch : 24, global_step : 10884/13140, loss_value : 1.0029280870810322 
+2022-01-21 16:21:20,911 - main - INFO - train - 102 : Epoch : 24, global_step : 10971/13140, loss_value : 1.036111042417329 
+2022-01-21 16:21:22,514 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:21:37,656 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9648    0.9690    0.9669      1837
+        misc     0.8929    0.8987    0.8958       918
+organisation     0.9316    0.9246    0.9281      1340
+      person     0.9795    0.9870    0.9832      1842
+
+   micro avg     0.9508    0.9537    0.9522      5937
+   macro avg     0.9422    0.9448    0.9435      5937
+weighted avg     0.9507    0.9537    0.9522      5937
+
+2022-01-21 16:21:37,656 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9522367978472923, accuracy : 0.9893298025624051, precision : 0.9507976490344249, recall : 0.9536803099208354
+2022-01-21 16:21:43,600 - main - INFO - train - 110 : Previous f1 score is 0.9517798535723302 and current f1 score is 0.9522367978472923, best model has been saved in /data/aisearch/nlp/data/xhsun/docker_run/semeval_dp/bert_for_ner/saved_models/bert-large-wwm-conll03/pytorch_model.bin
+2022-01-21 16:22:32,332 - main - INFO - train - 102 : Epoch : 25, global_step : 11062/13140, loss_value : 0.9446567447706201 
+2022-01-21 16:23:20,468 - main - INFO - train - 102 : Epoch : 25, global_step : 11149/13140, loss_value : 0.6284729310835915 
+2022-01-21 16:23:45,140 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:24:00,284 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9627    0.9690    0.9658      1837
+        misc     0.8870    0.8976    0.8923       918
+organisation     0.9280    0.9239    0.9260      1340
+      person     0.9795    0.9875    0.9835      1842
+
+   micro avg     0.9484    0.9535    0.9509      5937
+   macro avg     0.9393    0.9445    0.9419      5937
+weighted avg     0.9484    0.9535    0.9509      5937
+
+2022-01-21 16:24:00,285 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9509491012934655, accuracy : 0.989193504419954, precision : 0.9484000670129, recall : 0.953511874684184
+2022-01-21 16:24:00,287 - main - INFO - train - 115 : Left patience is 61
+2022-01-21 16:24:23,358 - main - INFO - train - 102 : Epoch : 25, global_step : 11236/13140, loss_value : 0.7446001425556753 
+2022-01-21 16:25:11,202 - main - INFO - train - 102 : Epoch : 25, global_step : 11323/13140, loss_value : 0.9604372923401581 
+2022-01-21 16:25:59,338 - main - INFO - train - 102 : Epoch : 25, global_step : 11410/13140, loss_value : 0.5016455376285246 
+2022-01-21 16:26:00,997 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:26:16,320 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9642    0.9690    0.9666      1837
+        misc     0.8943    0.8943    0.8943       918
+organisation     0.9269    0.9276    0.9273      1340
+      person     0.9795    0.9853    0.9824      1842
+
+   micro avg     0.9498    0.9532    0.9515      5937
+   macro avg     0.9412    0.9441    0.9427      5937
+weighted avg     0.9497    0.9532    0.9515      5937
+
+2022-01-21 16:26:16,321 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9514922236233712, accuracy : 0.9892129755831613, precision : 0.9498153742866734, recall : 0.953175004210881
+2022-01-21 16:26:16,321 - main - INFO - train - 115 : Left patience is 60
+2022-01-21 16:27:05,265 - main - INFO - train - 102 : Epoch : 26, global_step : 11501/13140, loss_value : 0.8073800185631061 
+2022-01-21 16:27:53,513 - main - INFO - train - 102 : Epoch : 26, global_step : 11588/13140, loss_value : 0.5013033548990885 
+2022-01-21 16:28:18,313 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:28:33,669 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9642    0.9684    0.9663      1837
+        misc     0.8900    0.8987    0.8943       918
+organisation     0.9254    0.9254    0.9254      1340
+      person     0.9790    0.9864    0.9827      1842
+
+   micro avg     0.9486    0.9535    0.9510      5937
+   macro avg     0.9396    0.9447    0.9422      5937
+weighted avg     0.9486    0.9535    0.9510      5937
+
+2022-01-21 16:28:33,670 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9510289794204116, accuracy : 0.9893492737256123, precision : 0.948558981233244, recall : 0.953511874684184
+2022-01-21 16:28:33,670 - main - INFO - train - 115 : Left patience is 59
+2022-01-21 16:28:56,969 - main - INFO - train - 102 : Epoch : 26, global_step : 11675/13140, loss_value : 0.6168861169924681 
+2022-01-21 16:29:44,924 - main - INFO - train - 102 : Epoch : 26, global_step : 11762/13140, loss_value : 0.617202298394565 
+2022-01-21 16:30:32,742 - main - INFO - train - 102 : Epoch : 26, global_step : 11849/13140, loss_value : 0.6014613447518184 
+2022-01-21 16:30:34,513 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:30:49,713 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9622    0.9706    0.9664      1837
+        misc     0.8920    0.8998    0.8959       918
+organisation     0.9254    0.9261    0.9258      1340
+      person     0.9784    0.9848    0.9816      1842
+
+   micro avg     0.9481    0.9540    0.9511      5937
+   macro avg     0.9395    0.9453    0.9424      5937
+weighted avg     0.9481    0.9540    0.9510      5937
+
+2022-01-21 16:30:49,714 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9510536478885064, accuracy : 0.9893687448888197, precision : 0.9481084700368263, recall : 0.9540171803941384
+2022-01-21 16:30:49,715 - main - INFO - train - 115 : Left patience is 58
+2022-01-21 16:31:38,751 - main - INFO - train - 102 : Epoch : 27, global_step : 11940/13140, loss_value : 0.5872093726848734 
+2022-01-21 16:32:26,023 - main - INFO - train - 102 : Epoch : 27, global_step : 12027/13140, loss_value : 0.6187044560224161 
+2022-01-21 16:32:50,889 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:33:06,096 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9622    0.9695    0.9658      1837
+        misc     0.8949    0.8998    0.8973       918
+organisation     0.9242    0.9276    0.9259      1340
+      person     0.9794    0.9832    0.9813      1842
+
+   micro avg     0.9486    0.9535    0.9510      5937
+   macro avg     0.9402    0.9450    0.9426      5937
+weighted avg     0.9486    0.9535    0.9510      5937
+
+2022-01-21 16:33:06,096 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9510289794204116, accuracy : 0.989388216052027, precision : 0.948558981233244, recall : 0.953511874684184
+2022-01-21 16:33:06,097 - main - INFO - train - 115 : Left patience is 57
+2022-01-21 16:33:29,400 - main - INFO - train - 102 : Epoch : 27, global_step : 12114/13140, loss_value : 0.4651416690870263 
+2022-01-21 16:34:17,503 - main - INFO - train - 102 : Epoch : 27, global_step : 12201/13140, loss_value : 0.5510084217992323 
+2022-01-21 16:35:05,271 - main - INFO - train - 102 : Epoch : 27, global_step : 12288/13140, loss_value : 0.8473813067907574 
+2022-01-21 16:35:06,897 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:35:22,048 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9648    0.9695    0.9671      1837
+        misc     0.8992    0.8943    0.8968       918
+organisation     0.9281    0.9254    0.9268      1340
+      person     0.9795    0.9848    0.9821      1842
+
+   micro avg     0.9511    0.9527    0.9519      5937
+   macro avg     0.9429    0.9435    0.9432      5937
+weighted avg     0.9509    0.9527    0.9518      5937
+
+2022-01-21 16:35:22,048 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9518680578929654, accuracy : 0.9893298025624051, precision : 0.9510677652597949, recall : 0.9526696985009264
+2022-01-21 16:35:22,049 - main - INFO - train - 115 : Left patience is 56
+2022-01-21 16:36:10,351 - main - INFO - train - 102 : Epoch : 28, global_step : 12379/13140, loss_value : 0.5204397837320963 
+2022-01-21 16:36:58,709 - main - INFO - train - 102 : Epoch : 28, global_step : 12466/13140, loss_value : 0.3232580601483926 
+2022-01-21 16:37:23,338 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:37:38,456 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9632    0.9690    0.9661      1837
+        misc     0.8931    0.8922    0.8926       918
+organisation     0.9323    0.9254    0.9288      1340
+      person     0.9800    0.9853    0.9827      1842
+
+   micro avg     0.9507    0.9523    0.9515      5937
+   macro avg     0.9422    0.9430    0.9426      5937
+weighted avg     0.9506    0.9523    0.9515      5937
+
+2022-01-21 16:37:38,456 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9515314708852239, accuracy : 0.9892519179095759, precision : 0.9507314612409619, recall : 0.9523328280276234
+2022-01-21 16:37:38,457 - main - INFO - train - 115 : Left patience is 55
+2022-01-21 16:38:01,662 - main - INFO - train - 102 : Epoch : 28, global_step : 12553/13140, loss_value : 0.6834844611156946 
+2022-01-21 16:38:49,849 - main - INFO - train - 102 : Epoch : 28, global_step : 12640/13140, loss_value : 0.5809135875482668 
+2022-01-21 16:39:38,203 - main - INFO - train - 102 : Epoch : 28, global_step : 12727/13140, loss_value : 0.4303989191164916 
+2022-01-21 16:39:39,833 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:39:55,123 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9637    0.9684    0.9661      1837
+        misc     0.8914    0.8943    0.8929       918
+organisation     0.9317    0.9269    0.9293      1340
+      person     0.9800    0.9853    0.9827      1842
+
+   micro avg     0.9504    0.9528    0.9516      5937
+   macro avg     0.9417    0.9437    0.9427      5937
+weighted avg     0.9504    0.9528    0.9516      5937
+
+2022-01-21 16:39:55,123 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9516359660190091, accuracy : 0.9893103313991978, precision : 0.9504368279569892, recall : 0.9528381337375779
+2022-01-21 16:39:55,124 - main - INFO - train - 115 : Left patience is 54
+2022-01-21 16:40:44,077 - main - INFO - train - 102 : Epoch : 29, global_step : 12818/13140, loss_value : 0.4733020080917183 
+2022-01-21 16:41:32,915 - main - INFO - train - 102 : Epoch : 29, global_step : 12905/13140, loss_value : 0.6488755982497643 
+2022-01-21 16:41:57,700 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:42:12,955 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9637    0.9679    0.9658      1837
+        misc     0.8969    0.8911    0.8940       918
+organisation     0.9287    0.9239    0.9263      1340
+      person     0.9806    0.9853    0.9829      1842
+
+   micro avg     0.9509    0.9515    0.9512      5937
+   macro avg     0.9425    0.9420    0.9423      5937
+weighted avg     0.9507    0.9515    0.9511      5937
+
+2022-01-21 16:42:12,956 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9511702306785654, accuracy : 0.9891740332567468, precision : 0.9508500252482747, recall : 0.9514906518443659
+2022-01-21 16:42:12,956 - main - INFO - train - 115 : Left patience is 53
+2022-01-21 16:42:35,860 - main - INFO - train - 102 : Epoch : 29, global_step : 12992/13140, loss_value : 0.5890415235497486 
+2022-01-21 16:43:24,170 - main - INFO - train - 102 : Epoch : 29, global_step : 13079/13140, loss_value : 0.586328221463609 
+2022-01-21 16:44:12,349 - main - INFO - train - 102 : Epoch : 29, global_step : 13166/13140, loss_value : 0.4835398443813982 
+2022-01-21 16:44:14,155 - main - INFO - predict - 131 : Evaluating the model...
+2022-01-21 16:44:29,472 - main.utils - INFO - compute_f1 - 140 : 
+              precision    recall  f1-score   support
+
+    location     0.9637    0.9679    0.9658      1837
+        misc     0.8989    0.8911    0.8950       918
+organisation     0.9274    0.9246    0.9260      1340
+      person     0.9806    0.9853    0.9829      1842
+
+   micro avg     0.9509    0.9517    0.9513      5937
+   macro avg     0.9426    0.9422    0.9424      5937
+weighted avg     0.9507    0.9517    0.9512      5937
+
+2022-01-21 16:44:29,473 - main.utils - INFO - compute_f1 - 141 : F1 : 0.9512585234447344, accuracy : 0.9891740332567468, precision : 0.9508582968697409, recall : 0.9516590870810173
+2022-01-21 16:44:29,473 - main - INFO - train - 115 : Left patience is 52
