@@ -7,7 +7,7 @@ Using the very classicial network structure BERT-CRF to do named entity recognit
 ```bash
 pip install -r requirements.txt
 python -m visdom.server
-python run_bert_lstm_crf.py --file_path path_to_nerdata --model_name_or_path path_to_bert --save_dir path_to_checkpoints
+python run_models/run_bert_lstm_crf.py --file_path path_to_nerdata --model_name_or_path path_to_bert --save_dir path_to_checkpoints
 ```
 
 **Note**
